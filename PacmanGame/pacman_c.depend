@@ -1,0 +1,451 @@
+# depslib dependency file v1.0
+1310131026 source:c:\documents and settings\codeblocks\desktop\pacman_c\move_guide.c
+	"header.h"
+
+1310455688 c:\documents and settings\codeblocks\desktop\pacman_c\header.h
+	<stdio.h>
+	"SDL/sdl.h"
+	"sdl/sdl_image.h"
+
+1308886642 source:c:\documents and settings\codeblocks\desktop\pacman_c\resource.rc
+
+1310054610 source:c:\documents and settings\codeblocks\desktop\pacman_c\map.c
+	"header.h"
+
+1310455690 source:c:\documents and settings\codeblocks\desktop\pacman_c\main.c
+	"header.h"
+
+1310196514 source:c:\documents and settings\codeblocks\desktop\pacman_c\accessories.c
+	"header.h"
+
+1310500690 source:e:\comproj\c projects\pacman_c\main.c
+	"header.h"
+
+1310500688 e:\comproj\c projects\pacman_c\header.h
+	<stdio.h>
+	"SDL/sdl.h"
+	"sdl/sdl_image.h"
+
+1310099610 source:e:\comproj\c projects\pacman_c\map.c
+	"header.h"
+
+1310503128 source:e:\comproj\c projects\pacman_c\move_guide.c
+	"header.h"
+
+1308931642 source:e:\comproj\c projects\pacman_c\resource.rc
+
+1310241514 source:e:\comproj\c projects\pacman_c\accessories.c
+	"header.h"
+
+1310550190 source:h:\myprojectgame\pacman game in c\main.c
+	"header.h"
+
+1409170579 h:\myprojectgame\pacman game in c\header.h
+	<stdio.h>
+	<sdl.h>
+	<SDL_image.h>
+
+1310149110 source:h:\myprojectgame\pacman game in c\map.c
+	"header.h"
+
+1310552628 source:h:\myprojectgame\pacman game in c\move_guide.c
+	"header.h"
+
+1308981142 source:h:\myprojectgame\pacman game in c\resource.rc
+
+1310291014 source:h:\myprojectgame\pacman game in c\accessories.c
+	"header.h"
+
+1409103055 source:h:\myprojectgame\pacman game in c\pacman123.c
+
+1413429780 source:c:\temp\delete\prog\pacman game in c\main.c
+	"header.h"
+
+1413376171 c:\temp\delete\prog\pacman game in c\header.h
+	<stdio.h>
+	<conio.h>
+	<sdl.h>
+	<SDL_image.h>
+	<windows.h>
+
+1413426217 source:c:\temp\delete\prog\pacman game in c\map.c
+	"header.h"
+
+1310552628 source:c:\temp\delete\prog\pacman game in c\move_guide.c
+	"header.h"
+
+1409103055 source:c:\temp\delete\prog\pacman game in c\pacman123.c
+
+1308981142 source:c:\temp\delete\prog\pacman game in c\resource.rc
+
+1413413151 source:c:\temp\delete\prog\pacman game in c\accessories.c
+	"header.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1409431601 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\begin_code.h
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\close_code.h
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\program files (x86)\codeblocks-simplecpp\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376159942 c:\program files (x86)\codeblocks-simplecpp\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1409170658 source:c:\temp\delete\prog\pacman game in c#1\main.c
+	"header.h"
+
+1409170579 c:\temp\delete\prog\pacman game in c#1\header.h
+	<stdio.h>
+	<sdl.h>
+	<SDL_image.h>
+
+1310149110 source:c:\temp\delete\prog\pacman game in c#1\map.c
+	"header.h"
+
+1310552628 source:c:\temp\delete\prog\pacman game in c#1\move_guide.c
+	"header.h"
+
+1409103055 source:c:\temp\delete\prog\pacman game in c#1\pacman123.c
+
+1308981142 source:c:\temp\delete\prog\pacman game in c#1\resource.rc
+
+1310291014 source:c:\temp\delete\prog\pacman game in c#1\accessories.c
+	"header.h"
+
+1412501077 source:c:\temp\delete\prog\pacman game in c\map1.c
+	"header.h"
+
+1415227427 source:c:\users\sony\desktop\pacman game in c\main.c
+	"header.h"
+
+1413372571 c:\users\sony\desktop\pacman game in c\header.h
+	<stdio.h>
+	<conio.h>
+	<sdl.h>
+	<SDL_image.h>
+	<windows.h>
+
+1413422617 source:c:\users\sony\desktop\pacman game in c\map.c
+	"header.h"
+
+1310549028 source:c:\users\sony\desktop\pacman game in c\move_guide.c
+	"header.h"
+
+1308977542 source:c:\users\sony\desktop\pacman game in c\resource.rc
+
+1413409551 source:c:\users\sony\desktop\pacman game in c\accessories.c
+	"header.h"
+
